@@ -1,0 +1,10 @@
+{
+    "articles": [
+        {
+            "title": "Dog fail to fetch articles",
+            "url": "",
+            "urlToImage": "images/dog.jpg",
+            "description": "Try loadiing the page again when you are online"
+        }
+    ]
+}
